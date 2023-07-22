@@ -18,3 +18,5 @@ pomodoro 1:
 - ✅ Initial refactor
 - ✅ User stories
 - ✅ UAT1.1 - When user pass 1, it should return []
+- ✅ UAT1.2 - When user pass 4, it should return [2]
+
