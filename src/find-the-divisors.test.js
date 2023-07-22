@@ -70,4 +70,7 @@ describe('Story 5', () => {
   it('UAT5.2 - When user pass 41, it should return "41" is prime', () => {
     expect(divisors(41)).toStrictEqual('41 is prime');
   });
+  it('UAT5.3 - When user pass 139, it should return "139" is prime', () => {
+    expect(divisors(139)).toStrictEqual('139 is prime');
+  });
 });
