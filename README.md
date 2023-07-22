@@ -33,8 +33,8 @@ Story 2: User can pass integer (prime number) and it should return string '(inte
 - ✅ DONE UAT2.6 - When user pass 13, it should return '13' is prime
 
 Story 3: User can pass wrong input, it should return an exception
-- ⚠ TODO UAT3.1 - When user pass null, it should return an exception
-- ⚠ TODO UAT3.2 - When user pass 0, it should return an exception
+- ✅ DONE UAT3.1 - When user pass null, it should return an exception
+- ✅ DONE UAT3.2 - When user pass 0, it should return an exception
 
 Story 4:  User can pass larger integers and it should return array with all of the integer's divisors (except for 1 and the number itself), from smallest to largest
 - ✅ DONE UAT4.1 - When user pass 25, it should return [5]
