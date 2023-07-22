@@ -16,13 +16,13 @@ divisors(13); // should return "13 is prime"
 ## Backlog
 
 Story 1: User can pass integer and it should return array with all of the integer's divisors (except for 1 and the number itself), from smallest to largest
-- ⚠ TODO UAT1.1 - When user pass 1, it should return []
-- ⚠ TODO UAT1.2 - When user pass 4, it should return [2]
-- ⚠ TODO UAT1.3 - When user pass 6, it should return [2,3]
-- ⚠ TODO UAT1.4 - When user pass 8, it should return [2,4]
-- ⚠ TODO UAT1.5 - When user pass 9, it should return [3]
-- ⚠ TODO UAT1.6 - When user pass 10, it should return [2,5]
-- ⚠ TODO UAT1.7 - When user pass 12, it should return [2,3,4,6]
+- ✅ DONE UAT1.1 - When user pass 1, it should return []
+- ✅ DONE UAT1.2 - When user pass 4, it should return [2]
+- ✅ DONE UAT1.3 - When user pass 6, it should return [2,3]
+- ✅ DONE UAT1.4 - When user pass 8, it should return [2,4]
+- ✅ DONE UAT1.5 - When user pass 9, it should return [3]
+- ✅ DONE UAT1.6 - When user pass 10, it should return [2,5]
+- ✅ DONE UAT1.7 - When user pass 12, it should return [2,3,4,6]
 
 Story 2: User can pass integer (prime number) and it should return string '(integer) is prime' 
 - ⚠ TODO UAT2.1 - When user pass 2, it should return '2' is prime'

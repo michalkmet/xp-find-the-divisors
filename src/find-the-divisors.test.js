@@ -23,3 +23,9 @@ describe('Story 1', () => {
     expect(divisors(12)).toStrictEqual([2, 3, 4, 6]);
   });
 });
+
+describe('Story 2', () => {
+  it('UAT2.1 - When user pass 2, it should return "2" is prime', () => {
+    expect(divisors(2)).toStrictEqual('2 is prime');
+  });
+});
