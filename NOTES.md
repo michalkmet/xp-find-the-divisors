@@ -28,6 +28,6 @@ Pomodoro 2:
 - ✅ UAT1.7 - When user pass 12, it should return [2,3,4,6]
 - ✅ UAT2.1 - When user pass 2, it should return '2' is prime'
 - ✅ UAT2.2 - When user pass 3, it should return '3' is prime'
-
+- ✅ UAT2.3 - When user pass 5, it should return '5' is prime'
 
 
