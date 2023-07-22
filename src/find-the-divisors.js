@@ -1,5 +1,5 @@
 function divisors() {
-  return 'hello';
+  return [];
 }
 
 module.exports = divisors;

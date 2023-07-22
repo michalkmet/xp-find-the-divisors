@@ -17,3 +17,4 @@ divisors(13); // should return "13 is prime"
 pomodoro 1:
 - ✅ Initial refactor
 - ✅ User stories
+- ✅ UAT1.1 - When user pass 1, it should return []
