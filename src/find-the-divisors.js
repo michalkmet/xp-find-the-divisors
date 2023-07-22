@@ -12,6 +12,9 @@ function divisors(number) {
   if (number % 5 === 0) {
     result.push(5);
   }
+  if (number % 6 === 0 && number != 6) {
+    result.push(6);
+  }
   return result;
 }
 
