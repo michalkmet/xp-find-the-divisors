@@ -32,6 +32,7 @@ Pomodoro 2:
 - ✅ UAT2.4 - When user pass 7, it should return '7' is prime'
 
 Pomodoro 3:
-- ✅  UAT2.5 - When user pass 11, it should return '11' is prime'
-- 🚧 UAT2.6 - When user pass 13, it should return '13' is prime'
-
+- ✅ UAT2.5 - When user pass 11, it should return '11' is prime'
+- ✅ UAT2.6 - When user pass 13, it should return '13' is prime'
+- ✅ More user stories
+- ✅ UAT4.1 - When user 25, it should return [5]
