@@ -31,3 +31,7 @@ Story 2: User can pass integer (prime number) and it should return string '(inte
 - ⚠ TODO UAT2.4 - When user pass 7, it should return '7' is prime'
 - ⚠ TODO UAT2.5 - When user pass 11, it should return '11' is prime'
 - ⚠ TODO UAT2.6 - When user pass 13, it should return '13' is prime'
+
+Story 3: User can pass wrong input, it should return an exception
+- ⚠ TODO UAT3.1 - When user pass null, it should return an exception
+- ⚠ TODO UAT3.2 - When user pass 0, it should return an exception
