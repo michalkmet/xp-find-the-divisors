@@ -49,4 +49,7 @@ describe('Story 4', () => {
   it('UAT4.1 - When user 25, it should return [5]', () => {
     expect(divisors(25)).toStrictEqual([5]);
   });
+  it('UAT4.2 - When user 27, it should return [3,9]', () => {
+    expect(divisors(27)).toStrictEqual([3, 9]);
+  });
 });

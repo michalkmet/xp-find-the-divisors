@@ -17,6 +17,9 @@ function divisors(number) {
   }
   if (number % 6 === 0 && number != 6) {
     result.push(6);
+  } 
+  if (number % 9 === 0 && number != 9) {
+    result.push(9);
   }
   return result;
 }
