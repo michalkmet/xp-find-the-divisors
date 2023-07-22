@@ -46,3 +46,5 @@ Pomodoro 4:
 - ✅ UAT5.1 - When user pass 37, it should return '37' is prime
 - ✅ UAT5.2 - When user pass 41, it should return '41' is prime
 - ✅ UAT5.3 - When user pass 139, it should return '139' is prime
+- ✅ UAT3.1 - When user pass null, it should return an exception
+- ⚠ TODO UAT3.2 - When user pass 0, it should return an exception

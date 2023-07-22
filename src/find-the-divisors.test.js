@@ -45,6 +45,12 @@ describe('Story 2', () => {
   });
 });
 
+describe('Story 3', () => {
+  it('UAT3.1 - When user pass null, it should return an exception', () => {
+    expect(() => divisors(null)).toThrow('wrong input');
+  });
+});
+
 describe('Story 4', () => {
   it('UAT4.1 - When user pass 25, it should return [5]', () => {
     expect(divisors(25)).toStrictEqual([5]);
