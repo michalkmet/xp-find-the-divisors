@@ -19,4 +19,6 @@ pomodoro 1:
 - ✅ User stories
 - ✅ UAT1.1 - When user pass 1, it should return []
 - ✅ UAT1.2 - When user pass 4, it should return [2]
+- ✅ UAT1.3 - When user pass 6, it should return [2,3]
+
 
