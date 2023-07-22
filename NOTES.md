@@ -41,5 +41,8 @@ Pomodoro 3:
 - ✅ UAT4.4 - When user pass 33, it should return [3,11]
 - ✅ UAT4.5 - When user pass 48, it should return [2,3,4,6,8,12,16,24]
 - 🚧 UAT5.1 - When user pass 37, it should return '37' is prime
+
+Pomodoro 4:
+- ✅ UAT5.1 - When user pass 37, it should return '37' is prime
 - ⚠ TODO UAT5.2 - When user pass 41, it should return '41' is prime
 - ⚠ TODO UAT5.3 - When user pass 139, it should return '139' is prime
