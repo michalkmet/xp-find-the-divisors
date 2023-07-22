@@ -35,5 +35,7 @@ Pomodoro 3:
 - ✅ UAT2.5 - When user pass 11, it should return '11' is prime'
 - ✅ UAT2.6 - When user pass 13, it should return '13' is prime'
 - ✅ More user stories
-- ✅ UAT4.1 - When user 25, it should return [5]
-- ✅ UAT4.2 - When user 27, it should return [3,9]
+- ✅ UAT4.1 - When user pass 25, it should return [5]
+- ✅ UAT4.2 - When user pass 27, it should return [3,9]
+- ✅ UAT4.3 - When user pass 24, it should return [2,3,4,6,8,12]
+- ✅ UAT4.4 - When user pass 33, it should return [3,11]
