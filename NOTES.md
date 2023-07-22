@@ -39,3 +39,4 @@ Pomodoro 3:
 - ✅ UAT4.2 - When user pass 27, it should return [3,9]
 - ✅ UAT4.3 - When user pass 24, it should return [2,3,4,6,8,12]
 - ✅ UAT4.4 - When user pass 33, it should return [3,11]
+- 🚧 UAT4.5 - When user pass 48, it should return [2,3,4,6,8,12,16,24]

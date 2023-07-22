@@ -58,4 +58,7 @@ describe('Story 4', () => {
   it('UAT4.4 - When user pass 33, it should return [3,11]', () => {
     expect(divisors(33)).toStrictEqual([3, 11]);
   });
+  it('UAT4.5 - When user pass 48, it should return [2,3,4,6,8,12,16,24]', () => {
+    expect(divisors(48)).toStrictEqual([2, 3, 4, 6, 8, 12, 16, 24]);
+  });
 });
