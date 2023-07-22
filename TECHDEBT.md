@@ -1,1 +1,3 @@
 # Techdebt
+
+- handle inputs

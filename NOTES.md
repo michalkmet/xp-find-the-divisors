@@ -15,5 +15,5 @@ divisors(13); // should return "13 is prime"
 ## Plans
 
 pomodoro 1:
-- ✅ TODO Initial refactor
-- ⚠ TODO User stories
+- ✅ Initial refactor
+- ✅ User stories

@@ -1,7 +1,7 @@
-const findTheDivisors = require('./find-the-divisors');
+const divisors = require('./find-the-divisors');
 
 describe('hello', () => {
   it('should return hello', () => {
-    expect(findTheDivisors()).toBe('hello');
+    expect(divisors()).toBe('hello');
   });
 });
