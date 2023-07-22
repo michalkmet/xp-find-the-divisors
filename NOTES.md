@@ -20,8 +20,11 @@ pomodoro 1:
 - ✅ UAT1.1 - When user pass 1, it should return []
 - ✅ UAT1.2 - When user pass 4, it should return [2]
 - ✅ UAT1.3 - When user pass 6, it should return [2,3]
+
+Pomodoro 2:
 - ✅ UAT1.4 - When user pass 8, it should return [2,4]
 - ✅ UAT1.5 - When user pass 9, it should return [3]
+- ✅ UAT1.6 - When user pass 10, it should return [2,5]
 
 
 
