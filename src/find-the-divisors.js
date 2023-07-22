@@ -1,6 +1,6 @@
 function divisors(number) {
   let result = [];
-  if ([2, 3, 5].includes(number)) {
+  if ([2, 3, 5, 7].includes(number)) {
     return `${number} is prime`;
   }
   if (number % 2 === 0) {
